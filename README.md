@@ -5,6 +5,7 @@ All the resources about that perticular topic are in notebook it self.
 I hope it can help you a bit.
 
 If you can learn these things as you like, but I have a proper structure:
+0. Have an overview on RoadMap for Ml-DL
 1. Numpy and Pandas
 2. Intro to machine learning
 

@@ -13,7 +13,7 @@ If you can learn these things as you like, but I have a proper structure:
 I will keep on updating this repo as I go on more. As I learn more I will keep adding more notebooks and resources. 
 
 
-#Resources Links:
+*Resources Links*:
 * Deep Learning(book for math) : https://www.deeplearningbook.org/
 * All resources by google Tensorflow : https://www.tensorflow.org/resources/learn-ml
 * Learn Stat: https://www.statlearning.com/
